@@ -1,7 +1,9 @@
 public class TEST {
 
-    public TEST() {
+    private int smegma;
 
+    public TEST() {
+        smegma = 0;
     }
     
 }
