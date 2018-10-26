@@ -4,6 +4,7 @@ public class TEST {
 
     public TEST() {
         smegma = 0;
+        System.out.println(A);
     }
-    
+
 }
